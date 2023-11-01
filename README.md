@@ -1,2 +1,6 @@
 # kicad-libs
 Kicad libs with spice models, 3Ds and others
+
+Directories:
+* `libs` - spice models, datasheets, 3D step files...
+* `examples` - examples/reference circuits, simulations...
