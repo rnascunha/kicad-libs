@@ -51,7 +51,7 @@
     (solder_mask_margin 0.102) (tstamp 85cf9b6d-99e2-4eb3-9665-2b507425e303))
   (pad "6" thru_hole circle (at 3.81 -2.54) (size 1.13 1.13) (drill 0.73) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp c7294fa7-39d3-40fc-9e1c-3392e198be23))
-  (model "/home/rnascunha/dev/kicad/libs/moc3021/MOC3021.step"
+  (model "${MY_LIBS}/libs/moc3021/MOC3021.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
